@@ -1,3 +1,5 @@
+# This code replicates Fig. 2.2 in the book. I have used the same code thrice to give results for epsilon=0.1,0.01 and greedy method.
+
 import matplotlib.pyplot as plt
 import numpy as np
 import random
